@@ -1,0 +1,32 @@
+{
+  "start": "👋 Welcome! I'm your personal weather bot. Use the menu below to begin.",
+  "help": "ℹ️ This bot helps you check the current weather. Use /weather and enter a city.",
+  "choose_language": "🌐 Choose a language:",
+  "enter_city": "📍 Please enter the city name:",
+  "updated": "✅ Updated",
+  "error_refresh": "⚠️ Could not refresh. Try again later.",
+  "no_access": "⛔ You don't have access to this section.",
+  "admin_welcome": "🔐 Welcome to the admin panel:",
+  "admin_enter_broadcast": "✍️ Enter the text to broadcast:",
+  "admin_broadcast_done": "✅ Broadcast finished. Sent to: {count}",
+  "admin_enter_ban_id": "🔨 Enter the user ID to ban:",
+  "admin_ban_success": "🚫 User {uid} has been banned.",
+  "admin_ban_invalid": "⚠️ Invalid ID format.",
+  "favorites_title": "⭐ Your favorite cities:",
+  "favorite_removed": "❌ {city} removed",
+  "back_to_menu": "🏠 Back to main menu",
+  "language_updated": "🌍 Language updated",
+  "no_favorites": "You don't have favorites yet.",
+  "empty": "No data.",
+  "refresh": "Refresh",
+  "back": "Back",
+  "menu_weather": "Weather",
+  "menu_favorites": "Favorites",
+  "menu_language": "Language",
+  "menu_help": "Help",
+"admin_stats": "📊 Statistics",
+"admin_broadcast": "📣 Broadcast",
+"admin_ban": "🚫 Ban"
+
+}
+
